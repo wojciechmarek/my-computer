@@ -22,10 +22,14 @@ npx kill-port 8080
 
 ### Light Server
 
-Light Server is a simple, zero-configuration command-line http server.
+Light Server is a simple, zero-configuration command-line http server. By default, it serves the current directory on port 8080.
 
 ```bash
 npx http-server
+```
+
+```bash
+npx http-server -p 5500
 ```
 
 ### WiFi Password
