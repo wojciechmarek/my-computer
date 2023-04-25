@@ -6,18 +6,34 @@ A set of useful commands for web development.
 
 ### Cloudflare
 
-You can set up a tunnel to your local server using Cloudflare's Tunnel. You can expose your local server to other people on the internet.
+You can set up a tunnel to your local server using Cloudflare's Tunnel (formerly Argo Tunnel). You can expose your local server to other people on the internet.
 
 ```bash
+brew install cloudflared
 cloudflared tunnel --url http://localhost:5500
 ```
 
-### Port kill
+### Modern port kill
 
-Easy way to kill a port.
+NPM way to kill a port.
 
 ```bash
 npx kill-port 8080
+```
+
+### Old-school port kill
+
+Native kill a port.
+
+```bash
+lsof -i tcp:[port]
+kill -9 [process_id]
+```
+
+or a combination of the two:
+
+```bash
+lsof -ti tcp:[port] | xargs kill
 ```
 
 ### Light Server
