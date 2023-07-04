@@ -11,8 +11,6 @@ This repo contains a loose set of programs, extensions as well as commands I lik
 - [Brew](#brew)
 - [Node Version Manager](#node-version-manager)
 
----
-
 ## Software
 
 List of software I use on my Mac.
@@ -62,29 +60,24 @@ List of software I use on my Mac.
 - [Virtual Box](https://www.virtualbox.org/)
 - [Responsively](https://responsively.app/)
 
-
 ### Terminals
 
 - [Tabby](https://tabby.io/)
 - [Cool Retro Term](https://github.com/Swordfish90/cool-retro-term)
 
----
-
 ## Legacy Software
 
 List of software I used to use on my Mac and Windows.
 
-### Development
+### Legacy development
 
 - [Visual Studio](https://visualstudio.microsoft.com/)
 - [Rider](https://www.jetbrains.com/rider/)
 - [WebStorm](https://www.jetbrains.com/webstorm/)
 
-### Web Browsers
+### Legacy Web Browsers
 
 - [Internet Explorer](https://en.wikipedia.org/wiki/Internet_Explorer)
-
----
 
 ## VS Code Extensions
 
@@ -122,8 +115,6 @@ List of VS Code extensions I use.
 - [stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
 - [SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
 - [Web Accessibility](https://marketplace.visualstudio.com/items?itemName=MaxvanderSchee.web-accessibility)
-
----
 
 ## Web Development
 
@@ -197,8 +188,6 @@ Get your public IP address.
 npx public-ip-cli
 ```
 
----
-
 ## Brew
 
 A set of useful commands for [Brew](https://brew.sh/).
@@ -238,8 +227,6 @@ brew outdated
 ```bash
 brew install --cask --no-quarantine [package]
 ```
-
----
 
 ## Node Version Manager
 
