@@ -1,11 +1,12 @@
-# My Computer
+# My Tech Stack
 
-This repo contains a loose set of programs, extensions as well as commands I like to use. I use them on my Mac, so they are not guaranteed to exist or work on other platforms.
+This repo contains a loose set of programs, extensions, libraries, and CLI commands I like to use. I use them on my Mac (sometimes on Windows machines), so they are not guaranteed to exist or work on other platforms.
 
 ## Table of Contents
 
 - [Software](#software)
 - [Legacy software](#legacy-software)
+- [Frontend libraries](#frontend-libraries)
 - [VS Code Extensions](#vs-code-extensions)
 - [Web Development](#web-development)
 - [Brew](#brew)
@@ -78,6 +79,28 @@ List of software I used to use on my Mac and Windows.
 ### Legacy Web Browsers
 
 - [Internet Explorer](https://en.wikipedia.org/wiki/Internet_Explorer)
+
+## Frontend Libraries
+
+List of languages, JS libraries, and tools I know and use during front-end developing
+
+### Languages
+- JavaScript
+- TypeScript
+- WebAssembly
+
+### IU Libraries / Frameworks
+- [React]()
+- [Next.js]()
+- [Angular]()
+
+### Repository / Build systems
+- [Nx]()
+- [Vite]()
+
+- ### Utility JS Packages
+- [Nx]()
+- [Vite]()
 
 ## VS Code Extensions
 
