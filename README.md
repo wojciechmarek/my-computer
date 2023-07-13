@@ -9,7 +9,7 @@ This repo contains a loose set of programs, extensions, libraries, and CLI comma
 - [🦄 Visual Studio Code Extensions](#visual-studio-code-extensions)
 - [Legacy software](#legacy-software)
 - [Web Development](#web-development)
-- [Brew](#brew)
+- [Brew (MacOS Package Manager)](#brew)
 - [Node Version Manager](#node-version-manager)
 - [CLI Aliases](#cli-aliases)
 
@@ -20,6 +20,7 @@ The list of software I currently use.
 ### Development
 
 - [VS Code](https://code.visualstudio.com/)
+- [CodePen](https://codepen.io/)
 
 ### Web Browsers
 
@@ -65,6 +66,7 @@ The list of software I currently use.
 - [Virtual Box](https://www.virtualbox.org/)
 - [Requestly](https://www.requestly.io/)
 - [ResponsivelyApp](https://responsively.app/)
+- [IT Tools](https://it-tools.tech/)
 
 ### Terminals
 
