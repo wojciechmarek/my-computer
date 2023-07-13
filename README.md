@@ -1,20 +1,21 @@
 # My Tech Stack
 
-This repo contains a loose set of programs, extensions, libraries, and CLI commands I like to use. I use them on my Mac (sometimes on Windows machines), so they are not guaranteed to exist or work on other platforms.
+This repo contains a loose set of programs, extensions, libraries, and CLI commands I like to use. I use them on Mac OS (sometimes on Windows machines), so they are not guaranteed to exist or work on other platforms.
 
 ## Table of Contents
 
-- [Software](#software)
+- [🌟 Current software](#current-software)
+- [🌈 Frontend libraries](#frontend-libraries)
+- [🦄 Visual Studio Code Extensions](#visual-studio-code-extensions)
 - [Legacy software](#legacy-software)
-- [Frontend libraries](#frontend-libraries)
-- [VS Code Extensions](#vs-code-extensions)
 - [Web Development](#web-development)
 - [Brew](#brew)
 - [Node Version Manager](#node-version-manager)
+- [CLI Aliases](#cli-aliases)
 
-## Software
+## Current software
 
-List of software I use on my Mac.
+The list of software I currently use.
 
 ### Development
 
@@ -31,9 +32,10 @@ List of software I use on my Mac.
 ### Design
 
 - [Figma](https://www.figma.com/)
-- [Just Color Picker](https://annystudio.com/software/colorpicker/)
-- [Blender](https://www.blender.org/)
 - [Pixelmator](https://www.pixelmator.com/)
+- [Blender](https://www.blender.org/)
+- [Just Color Picker](https://annystudio.com/software/colorpicker/)
+- [draw.io](https://app.diagrams.net/)
 
 ### Communication
 
@@ -52,67 +54,113 @@ List of software I use on my Mac.
 - [BreakTimer](https://apps.apple.com/us/app/breaktimer/id1196200164?mt=12)
 - [eqMac](https://eqmac.app/)
 - [Rectangle](https://rectangleapp.com/)
+- [Brew](https://brew.sh/)
 
 ### Utilities
 
 - [Docker](https://www.docker.com/)
+- [VirtualBox](https://www.virtualbox.org/)
 - [Postman](https://www.postman.com/)
 - [Robo 3T](https://robomongo.org/)
 - [Virtual Box](https://www.virtualbox.org/)
-- [Responsively](https://responsively.app/)
+- [Requestly](https://www.requestly.io/)
+- [ResponsivelyApp](https://responsively.app/)
 
 ### Terminals
 
-- [Tabby](https://tabby.io/)
+- [Tabby](https://tabby.sh/)
 - [Cool Retro Term](https://github.com/Swordfish90/cool-retro-term)
 
 ## Legacy Software
 
-List of software I used to use on my Mac and Windows.
+The list of software I used to use months or years ago.
 
 ### Legacy development
 
 - [Visual Studio](https://visualstudio.microsoft.com/)
 - [Rider](https://www.jetbrains.com/rider/)
 - [WebStorm](https://www.jetbrains.com/webstorm/)
+- [ReSharper](https://www.jetbrains.com/resharper/)
+- [Microsoft SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
 
 ### Legacy Web Browsers
 
 - [Internet Explorer](https://en.wikipedia.org/wiki/Internet_Explorer)
 
+### Legacy Design
+
+- [Paint](https://en.wikipedia.org/wiki/Microsoft_Paint)
+
 ## Frontend Libraries
 
-List of languages, JS libraries, and tools I know and use during front-end developing
+The list of languages, JS libraries, and tools I know and use during front-end developing.
 
 ### Languages
+
 - JavaScript
 - TypeScript
 - WebAssembly
 
-### IU Libraries / Frameworks
-- [React]()
-- [Next.js]()
-- [Angular]()
+### Frameworks
 
-### Repository / Build systems
-- [Nx]()
-- [Vite]()
+- [React](https://reactjs.org/)
+- [Next.js](https://nextjs.org/)
+- [Angular](https://angular.io/)
 
-- ### Utility JS Packages
-- [Nx]()
-- [Vite]()
+### UI Systems
 
-## VS Code Extensions
+- [Material UI](https://material-ui.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Chakra UI](https://chakra-ui.com/)
+- [PrimeNG](https://www.primefaces.org/primeng/)
 
-List of VS Code extensions I use.
+### State Management
 
-### General
+- [Redux Toolkit](https://redux-toolkit.js.org/)
+- [NgRx](https://ngrx.io/)
+
+### API Clients
+
+- [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+- [Axios](https://axios-http.com/)
+- [Apollo Client](https://www.apollographql.com/docs/react/)
+
+### Repositories / Build systems
+
+- [Nx](https://nx.dev/)
+- [Vite](https://vitejs.dev/)
+
+### General JavaScript Libraries
+
+I hate 🤮 jQuery, Lodash, Underscore, and other libraries that try to replace native JS methods. I don't use them. I believe just only in the libraries that provide a new functionality or simplify the existing one.
+
+- [sort-by](https://www.npmjs.com/package/sort-by)
+- [match-sorter](https://www.npmjs.com/package/match-sorter)
+- [msw](https://mswjs.io/)
+- [date-fns](https://date-fns.org/)
+- [rxjs](https://rxjs.dev/)
+- [three.js](https://threejs.org/)
+- [chart.js](https://www.chartjs.org/)
+
+### React Libraries
+
+- [React Router](https://reactrouter.com/)  
+- [React Query](https://react-query.tanstack.com/)
+- [React Hook Form](https://react-hook-form.com/)
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
+
+## Visual Studio Code Extensions
+
+The list of Visual Studio Code extensions I use and recommend. The list below does not contain "language/technology specific" extensions.
+
+### Editor
 
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
-- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 - [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 - [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+- [ErrorLens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 
 ### Git
 
@@ -130,6 +178,11 @@ List of VS Code extensions I use.
 - [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
 - [Quokka](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
 - [Power Mode](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode)
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+- [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+- [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode)
+- [Figma for VS Code](https://marketplace.visualstudio.com/items?itemName=figma.figmasvg)
+- [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
 
 ### Linters
 
@@ -139,13 +192,18 @@ List of VS Code extensions I use.
 - [SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
 - [Web Accessibility](https://marketplace.visualstudio.com/items?itemName=MaxvanderSchee.web-accessibility)
 
+### AI
+
+- [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+- [TabNine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
+
 ## Web Development
 
-A set of useful commands for web development.
+A set of useful general commands for web development.
 
 ### Cloudflare
 
-You can set up a tunnel to your local server using Cloudflare's Tunnel (formerly Argo Tunnel). You can expose your local server to other people on the internet.
+The tunnel to your local server using Cloudflare's Tunnel (formerly Argo Tunnel). You can expose your local server to other people on the internet (e.g. to the client / managers during boring "Meeting Driven Development" sessions on Teams / Zoom / etc.)
 
 ```bash
 brew install cloudflared
@@ -187,14 +245,6 @@ npx http-server
 npx http-server -p 5500
 ```
 
-### WiFi Password
-
-Get your WiFi password.
-
-```bash
-npx wifi-password-cli
-```
-
 ### Remove node_modules
 
 Remove node_modules folder and all its content.
@@ -203,12 +253,28 @@ Remove node_modules folder and all its content.
 npx npkill
 ```
 
+### WiFi Password
+
+Get your WiFi password.
+
+```bash
+npx wifi-password-cli
+```
+
 ### My IP
 
 Get your public IP address.
 
 ```bash
 npx public-ip-cli
+```
+
+### Speed Test
+
+Test your internet connection speed.
+
+```bash
+npx speed-test
 ```
 
 ## Brew
@@ -301,4 +367,14 @@ nvm use 13
 
 ```bash
 nvm use system
+```
+
+## CLI Aliases
+
+A set of useful aliases for the command line.
+
+### Copy current directory path to clipboard
+
+```bash
+alias cpwd="pwd | tr -d '\n' | pbcopy && echo 'pwd copied to clipboard'"
 ```
