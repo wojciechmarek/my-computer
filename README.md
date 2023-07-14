@@ -152,6 +152,12 @@ I hate 🤮 jQuery, Lodash, Underscore, and other libraries that try to replace 
 - [React Hook Form](https://react-hook-form.com/)
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 
+### Testing Libraries
+
+- [Jest](https://jestjs.io/)
+- [Testing Library](https://testing-library.com/)
+- [Cypress](https://www.cypress.io/)
+
 ## Visual Studio Code Extensions
 
 The list of Visual Studio Code extensions I use and recommend. The list below does not contain "language/technology specific" extensions.
