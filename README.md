@@ -93,6 +93,7 @@ The list of languages, JS libraries, and tools I know and use during front-end d
 - [React](https://reactjs.org/)
 - [Next.js](https://nextjs.org/)
 - [Angular](https://angular.io/)
+- [Nest.js](https://nestjs.com/)
 
 ### UI Systems
 
