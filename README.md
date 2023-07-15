@@ -5,7 +5,7 @@ This repo contains a loose set of programs, extensions, libraries, and CLI comma
 ## Table of Contents
 
 - [🌟 Current software](#current-software)
-- [🌈 Frontend libraries](#frontend-libraries)
+- [🌈 Frontend libraries and issues](#frontend-libraries-and-issues)
 - [🦄 Visual Studio Code Extensions](#visual-studio-code-extensions)
 - [Legacy software](#legacy-software)
 - [Web Development](#web-development)
@@ -93,7 +93,7 @@ The list of software I used to use months or years ago.
 
 - [Paint](https://en.wikipedia.org/wiki/Microsoft_Paint)
 
-## Frontend Libraries
+## Frontend Libraries and Issues
 
 The list of languages, JS libraries, and tools I know and use during front-end developing.
 
@@ -157,6 +157,14 @@ I hate 🤮 jQuery, Lodash, Underscore, and other libraries that try to replace 
 - [Jest](https://jestjs.io/)
 - [Testing Library](https://testing-library.com/)
 - [Cypress](https://www.cypress.io/)
+
+### Web Browser APIs
+
+- [Web Storage](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
+- [Web Audio](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
+- [Web Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
+- [Web Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+- [Web DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 
 ## Visual Studio Code Extensions
 
