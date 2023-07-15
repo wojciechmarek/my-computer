@@ -1,12 +1,17 @@
 # My Tech Stack
 
-This repo contains a loose set of programs, extensions, libraries, and CLI commands I like to use. I use them on Mac OS (sometimes on Windows machines), so they are not guaranteed to exist or work on other platforms.
+This page contains a loose set of programs, extensions, libraries, and CLI commands I like to use in my daily work.
 
 ## Table of Contents
+
+The main tech stack sections:
 
 - [🌟 Current software](#current-software)
 - [🌈 Frontend libraries and issues](#frontend-libraries-and-issues)
 - [🦄 Visual Studio Code Extensions](#visual-studio-code-extensions)
+
+Other sections:
+
 - [Legacy software](#legacy-software)
 - [Web Development](#web-development)
 - [Brew (MacOS Package Manager)](#brew)
@@ -72,26 +77,6 @@ The list of software I currently use.
 
 - [Tabby](https://tabby.sh/)
 - [Cool Retro Term](https://github.com/Swordfish90/cool-retro-term)
-
-## Legacy Software
-
-The list of software I used to use months or years ago.
-
-### Legacy development
-
-- [Visual Studio](https://visualstudio.microsoft.com/)
-- [Rider](https://www.jetbrains.com/rider/)
-- [WebStorm](https://www.jetbrains.com/webstorm/)
-- [ReSharper](https://www.jetbrains.com/resharper/)
-- [Microsoft SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
-
-### Legacy Web Browsers
-
-- [Internet Explorer](https://en.wikipedia.org/wiki/Internet_Explorer)
-
-### Legacy Design
-
-- [Paint](https://en.wikipedia.org/wiki/Microsoft_Paint)
 
 ## Frontend Libraries and Issues
 
@@ -212,6 +197,43 @@ The list of Visual Studio Code extensions I use and recommend. The list below do
 
 - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 - [TabNine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
+
+## Legacy Software
+
+The list of software I used to use months or years ago.
+
+### Legacy Languages
+
+- [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- [C++](https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-160)
+- [C](https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-160)
+
+### Legacy development
+
+- [Visual Studio](https://visualstudio.microsoft.com/)
+- [Rider](https://www.jetbrains.com/rider/)
+- [WebStorm](https://www.jetbrains.com/webstorm/)
+- [ReSharper](https://www.jetbrains.com/resharper/)
+- [Microsoft SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
+
+### Legacy Frameworks
+
+- [Windows Forms](https://docs.microsoft.com/en-us/dotnet/desktop/winforms/?view=netdesktop-5.0)
+- [WPF](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/?view=netdesktop-5.0)
+- [Xamarin](https://dotnet.microsoft.com/apps/xamarin)
+- [ASP.NET (Core)](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0)
+- [Entity Framework (Core)](https://docs.microsoft.com/en-us/ef/core/)
+- [AVR & ATmega micro-controllers](https://en.wikipedia.org/wiki/AVR_microcontrollers)
+- [Arduino](https://www.arduino.cc/)
+
+### Legacy Web Browsers
+
+- [Internet Explorer](https://en.wikipedia.org/wiki/Internet_Explorer)
+
+### Legacy Design
+
+- [Paint](https://en.wikipedia.org/wiki/Microsoft_Paint)
+- [Gimp](https://www.gimp.org/)
 
 ## Web Development
 
