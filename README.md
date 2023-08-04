@@ -206,11 +206,11 @@ The list of books I read (and suggest to read) about software engineering.
 
 - [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.pl/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.pl/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=pd_lpo_sccl_1/257-0448243-5210264?pd_rd_w=fv08P&content-id=amzn1.sym.3565e7ba-17d4-4fb8-8047-07786c03b133&pf_rd_p=3565e7ba-17d4-4fb8-8047-07786c03b133&pf_rd_r=C3SZYGDNMJCS129DG4JJ&pd_rd_wg=LVTQa&pd_rd_r=14737228-afbc-4777-a5c5-5c53aeecb8e8&pd_rd_i=0134494164&psc=1)
-- [Cracking the Tech Career: Insider Advice on Landing a Job at Google, Microsoft, Apple, or any Top Tech Company]([https://www.amazon.pl/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882](https://www.amazon.pl/Cracking-Tech-Career-Insider-Microsoft/dp/1118968085/ref=sr_1_1?crid=TAC2SWJSBBSP&keywords=cracking+the+tech+career&qid=1691141886&sprefix=cracking+the+te%2Caps%2C201&sr=8-1)
+- [Cracking the Tech Career: Insider Advice on Landing a Job at Google, Microsoft, Apple, or any Top Tech Company](https://www.amazon.pl/Cracking-Tech-Career-Insider-Microsoft/dp/1118968085/ref=monarch_sidesheet)
 
 ## Legacy Software
 
-The list of software I used to use months or years ago.
+The list of software I used to use months or years ago, currenty I do not use it or use it occasionally.
 
 ### Legacy Languages
 
