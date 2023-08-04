@@ -1,6 +1,6 @@
 # My Tech Stack
 
-This page contains a loose set of programs, extensions, libraries, and CLI commands I like to use in my daily work.
+This repository contains a loose set of programs, extensions, libraries, and CLI commands I like to use in my daily work.
 
 ## Table of Contents
 
@@ -210,7 +210,7 @@ The list of books I read (and suggest to read) about software engineering.
 
 ## Legacy Software
 
-The list of software I used to use months or years ago, currenty I do not use it or use it occasionally.
+The list of software I used to use months or years ago; currently, I do not use it or use it occasionally.
 
 ### Legacy Languages
 
@@ -251,7 +251,7 @@ A set of useful general commands for web development.
 
 ### Cloudflare
 
-The tunnel to your local server using Cloudflare's Tunnel (formerly Argo Tunnel). You can expose your local server to other people on the internet (e.g. to the client / managers during boring "Meeting Driven Development" sessions on Teams / Zoom / etc.)
+The tunnel to your local server using Cloudflare's Tunnel (formerly Argo Tunnel). You can expose your local server to other people on the internet (e.g. to the client/managers during tedious "Meeting Driven Development" sessions on Teams / Zoom / etc.)
 
 ```bash
 brew install cloudflared
@@ -283,7 +283,7 @@ lsof -ti tcp:[port] | xargs kill
 
 ### Light Server
 
-Light Server is a simple, zero-configuration command-line http server. By default, it serves the current directory on port 8080.
+Light Server is a simple, zero-configuration command-line HTTP server. By default, it serves the current directory on port 8080.
 
 ```bash
 npx http-server
@@ -359,7 +359,7 @@ brew upgrade [package]
 brew outdated
 ```
 
-### Install package outside the quarantine
+### Install the package outside the quarantine
 
 ```bash
 brew install --cask --no-quarantine [package]
@@ -387,7 +387,7 @@ brew info [package]
 nvm i 14
 ```
 
-or more specific:
+or more specifically:
 
 ```bash
 nvm i 13.1.4
@@ -419,9 +419,9 @@ nvm use system
 
 ## CLI Aliases
 
-A set of useful aliases for the command line.
+A set of valuable aliases for the command line.
 
-### Copy current directory path to clipboard
+### Copy the current directory path to the clipboard
 
 ```bash
 alias cpwd="pwd | tr -d '\n' | pbcopy && echo 'pwd copied to clipboard'"
