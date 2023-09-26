@@ -123,6 +123,7 @@ I hate 🤮 jQuery, Lodash, Underscore, and other libraries that try to replace 
 - [rxjs](https://rxjs.dev/)
 - [three.js](https://threejs.org/)
 - [chart.js](https://www.chartjs.org/)
+- [clsx](https://github.com/lukeed/clsx)
 
 ### React Libraries
 
