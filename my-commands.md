@@ -9,6 +9,7 @@ This repository contains a set of CLI commands I use in my daily work.
 - [Brew (MacOS Package Manager)](#brew)
 - [Node Version Manager](#node-version-manager)
 - [CLI Aliases](#cli-aliases)
+- [ZIP Commands](#zip-commands)
 
 ## Legacy Software
 
@@ -228,3 +229,23 @@ A set of valuable aliases for the command line.
 ```bash
 alias cpwd="pwd | tr -d '\n' | pbcopy && echo 'pwd copied to clipboard'"
 ```
+
+## ZIP commands
+
+A set of useful ZIP commands
+
+### Create a ZIP archive
+
+```bash
+zip my_archive.zip folder_i_want_to_archive
+```
+
+## Create a ZIP archive secured with a password
+
+- `-r` - recursive, add also directories in the directories
+- `-e` - encrypt
+
+```bash
+zip -er my_archive.zip folder_i_want_to_archive
+```
+
