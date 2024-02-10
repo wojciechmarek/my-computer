@@ -10,6 +10,7 @@ This repository contains a set of CLI commands I use in my daily work.
 - [Node Version Manager](#node-version-manager)
 - [CLI Aliases](#cli-aliases)
 - [ZIP Commands](#zip-commands)
+- [FFmpeg](#ffmpeg)
 
 ## Legacy Software
 
@@ -249,4 +250,12 @@ zip my_archive.zip folder_i_want_to_archive
 zip -er my_archive.zip folder_i_want_to_archive
 ```
 
-## ffmpeg
+## FFmpeg
+
+A set of useful ffmpeg commands
+
+### Convert multimedia file (.mov) to .mp4 format
+
+```
+ffmpeg -i input_file_name.MOV output_file_name.mp4
+```
