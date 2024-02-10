@@ -238,24 +238,33 @@ A set of useful ZIP commands
 ### Create a ZIP archive
 
 ```bash
-zip my_archive.zip folder_i_want_to_archive
+zip output_archive_name.zip folder_i_want_to_archive
 ```
 
-## Create a ZIP archive secured with a password
+### Create a ZIP archive secured with a password
 
 - `-r` - recursive, add also directories in the directories
 - `-e` - encrypt
 
 ```bash
-zip -er my_archive.zip folder_i_want_to_archive
+zip -er output_archive_name.zip folder_i_want_to_archive
 ```
 
 ## FFmpeg
 
-A set of useful ffmpeg commands
+A set of useful ffmpeg commands.
 
-### Convert multimedia file (.mov) to .mp4 format
+- `ffmpeg` - a CLI media converter
+- `ffplay` - a CLI media player
 
-```
+### Convert multimedia file from .mov to .mp4 format
+
+```bash
 ffmpeg -i input_file_name.MOV output_file_name.mp4
+```
+
+### Play a multimedia file
+
+```bash
+ffplay -i movie_i_want_to_play.mp4
 ```
