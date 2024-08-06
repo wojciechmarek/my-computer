@@ -14,6 +14,8 @@ whoami # username
 hostname # system's name
 whereis docker # all catalogs with a docker file
 which docker - # path to the docker executable file
+ls # list items in the catalog
+ls -l # list the items in a column, shows more details (access rights)
 ```
 
 ### basic (need to install them before usage)
@@ -43,9 +45,10 @@ service httpd stop
 service httpd restart
 ```
 
-### kill (terminate the process tool)
+### kill (terminate the process)
 
 ```bash
+# PID (Process ID) can bee taken from System Monitor / htop, then:
 kill PID
 ```
 
@@ -82,17 +85,11 @@ dnf info docker
 ```
 
 ### chmod (change mode tool)
+
 ```bash
-./file # starts a file (or opens it)
-touch file.txt # creates a new file
-cat file.txt # displays the content of the file
-nano file.txt # opens a file in the nano CLI editor
-zip /directory # zips a directory
-unzip archive # unzip a directory
-df # file storage status
+-rwxrwxrwx. # full possible rights for all grups
+
+# usually some rights are limited:
+-rw-r--r--. 1 steve steve 422 Sep  8 08:55 README.md
+drwxr-xr-x. 1 steve steve 254 Sep  8 08:51 src
 ```
-
-
-
-
-
